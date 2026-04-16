@@ -5,7 +5,9 @@ This project explores the correlation between weather conditions and aviation ef
 
 
 **Dashboard Preview**
+
 <img src="https://github.com/user-attachments/assets/b3cc11a5-4d05-4d48-89c5-0a855e37893b" width="700">
+
 
 *Figure 1: Interactive Tableau Dashboard analyzing flight delays.*
 
