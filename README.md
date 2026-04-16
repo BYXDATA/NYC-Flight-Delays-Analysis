@@ -8,10 +8,11 @@ The objective was to identify critical weather thresholds that significantly imp
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](<img width="828" height="338" alt="1447-10-28 19 22 52" src="https://github.com/user-attachments/assets/b3cc11a5-4d05-4d48-89c5-0a855e37893b" />
-)
-*Figure 1: Final Interactive Tableau Dashboard.*
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3cc11a5-4d05-4d48-89c5-0a855e37893b" width="828" alt="Dashboard Preview">
+  <br>
+  <em>Figure 1: Final Interactive Tableau Dashboard.</em>
+</p>
 ---
 
 ## 🚀 Key Insights
